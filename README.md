@@ -1,2 +1,0 @@
-# simulation_2Dslam_evaluation
-使用虚拟仿真环境进行slam，并记录真实位姿和slam估计位姿态，保存为tum格式，使用evo进行误差计算。
